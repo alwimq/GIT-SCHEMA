@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Akira Toriyama merupakan penulis dan ilustrasi dari Dragon Ball. Pada awalnya, karya ini ditulis hanya dalam bentuk one shot atau komik pendek. Toriyama sensei menuturkan bahwa karya ini terinspirasi dari kisah perjalanan pengambilan kitab suci ke barat. Oleh karena itu, akan banyak ditemui unsur-unsur Asia dan juga karakter yang serupa dengan cerita Journey to The West.
 
 Meskipun terinspirasi dari kisah perjalanan Sun Wu Kong dan kawan-kawan, Toriyama sensei juga menyisipkan aksi kungfu di dalam karyanya. Selain itu, agar karyanya terdengar seperti manga shounen atau anak muda, maka Toriyama sensei menambahkan ide mencari bola naga agar terdengar memiliki tujuan. Karya ini sendiri juga memuat banyak unsur Asia, berbeda dengan karya Toriyama sensei sebelumnya
+=======
+Mulanya Toriyama sensei berencana menyelesaikan manga ini hanya dalam waktu satu tahun atau ketika bola naga berhasil dikumpulkan. Namun, berkat ketenaran seri ini, akhirnya manga ini pun diperpanjang. Sebelum populer, editor manga ini mengatakan bahwa Goku terlalu biasa untuk seorang protagonis. Untuk mengimbanginya, sang pencipta karya ini pun turut menciptakan Krilin dan Kame Sennin dan menambah jumlah pertarungan yang seru.
+
+Pada saat mencapai bagian turnamen, manga ini mulai banyak dilirik dan mendapatkan popularitasnya. Berkat itu, TOEI Animation tertarik kemudian merapat dan menawarkan untuk mengadaptasi manga ini menjadi anime.
+>>>>>>> BRANCH2
